@@ -27,6 +27,10 @@ https://github.com/gijzelaerr/python-snap7
 
 https://bitbucket.org/jryan/aphytcomm/src/master/
 
+*OPC-UA*
+
+https://github.com/FreeOpcUa/opcua-asyncio
+
 ---
 ---
 
