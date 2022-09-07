@@ -7,7 +7,6 @@ https://github.com/TheFern2/Data_Preserve
 https://github.com/TheFern2/UnitConfigPuller
 
 ---
----
 
 **PLC communication**
 
@@ -41,7 +40,6 @@ https://github.com/riptideio/pymodbus
 
 
 ---
----
 
 **PLC File Management/Editor**
 
@@ -55,7 +53,6 @@ https://github.com/jvalenzuela/l5x
 https://github.com/ajbrickhouse/TIA-Auto-Save
 
 ---
----
 
 **Video/Image**
 
@@ -66,21 +63,17 @@ https://github.com/dmroeder/fault_video
 https://github.com/UberWagen/J3tracer
 
 ---
----
 
 **PID**
 
 https://github.com/Destination2Unknown/pytunelogix
 
 ---
----
 
 **PLC ladder logic**
 
 https://github.com/deadsy/py_plc
 
----
----
 ---
 ---
 
@@ -97,8 +90,7 @@ https://www.npmjs.com/package/st-ethernet-ip
 
 ---
 ---
----
----
+
 # **SCADA**
 
 *Fuxa*
@@ -112,9 +104,17 @@ https://www.advancedhmi.com/index.php?main_page=product_info&cPath=2&products_id
 
 ---
 ---
----
----
+
 # **General**
+
+*Open PLC*
+
+https://github.com/thiagoralves/OpenPLC_v3
+
+*OpenPLC IDE*
+
+https://github.com/beremiz/beremiz
+
 
 *PLC Communication Library*
 
@@ -128,3 +128,5 @@ https://flows.nodered.org/node/node-red-contrib-cip-ethernet-ip
 *Node Red - OPCUA* 
 
 https://flows.nodered.org/node/node-red-contrib-opcua
+
+---
