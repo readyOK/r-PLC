@@ -1,4 +1,4 @@
-# r/PLC - Python
+# **Python**
 
 **Data Management**
 
@@ -30,6 +30,15 @@ https://bitbucket.org/jryan/aphytcomm/src/master/
 *OPC-UA*
 
 https://github.com/FreeOpcUa/opcua-asyncio
+
+*TwinCAT*
+
+https://github.com/stlehmann/pyads
+
+*ModBus*
+
+https://github.com/riptideio/pymodbus
+
 
 ---
 ---
@@ -70,3 +79,52 @@ https://github.com/Destination2Unknown/pytunelogix
 
 https://github.com/deadsy/py_plc
 
+---
+---
+---
+---
+
+# **JavaScript**
+
+*OPC-UA*
+
+https://node-opcua.github.io/
+
+
+*EIP*
+
+https://www.npmjs.com/package/st-ethernet-ip
+
+---
+---
+---
+---
+# **SCADA**
+
+*Fuxa*
+
+https://github.com/frangoteam/FUXA
+
+*AdvancedHMI*
+
+https://www.advancedhmi.com/index.php?main_page=product_info&cPath=2&products_id=20
+
+
+---
+---
+---
+---
+# **General**
+
+*PLC Communication Library*
+
+https://github.com/libplctag
+
+
+*Node Red- Ethernet IP*
+
+https://flows.nodered.org/node/node-red-contrib-cip-ethernet-ip
+
+*Node Red - OPCUA* 
+
+https://flows.nodered.org/node/node-red-contrib-opcua
