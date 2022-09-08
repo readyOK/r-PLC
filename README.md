@@ -129,4 +129,9 @@ https://flows.nodered.org/node/node-red-contrib-cip-ethernet-ip
 
 https://flows.nodered.org/node/node-red-contrib-opcua
 
+
+*Ignition*
+
+https://github.com/paul-griffith/kindling
+
 ---
